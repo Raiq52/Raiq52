@@ -13,12 +13,7 @@
         <p>• 💬 about me: <b>Honestly, i'm pretty new in development, i'm here for discover and learn new tools!</b></p>
         <p>• 📫 How to reach me: <b>bastien.touboulie@gmail.com</b></p>
 </div><br>
-
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-</div>
-    
+ 
 ---
 
 <div>
